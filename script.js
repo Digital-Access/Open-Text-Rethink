@@ -1,13 +1,13 @@
 const config = {
-    title: "Marketing supports all company strategic priorities and you have a big part to play!",
-    question: "Please can you give us an example of how you are supporting the company strategy below:",
+    title: "Once you have decided your Niche, either in health, wealth or happiness, what is your next step to determine your perfect client, Avatar?",
+    question: "Share an example of your strategy to determine who is your Niche's perfect Avatar, target market:",
     submit: "Submit",
     thanks: "Thank you for your submission, click the “Next Video” button to proceed now.",
-    celebrationImg_on: true,
-    celebration_image: "https://a.storyblok.com/f/112136/205x150/12867bb205/sporting-hero.png",
+    celebrationImg_on: false,
+    celebration_image: "",
     placeholder_text: "Type your answer here",
-    image_on: true,
-    image: "https://a.storyblok.com/f/112136/130x160/731788149f/avatar_matt-owen.png",
+    image_on: false,
+    image: "",
 }
 
 const title = document.getElementById('title');
